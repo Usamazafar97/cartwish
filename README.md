@@ -1,8 +1,29 @@
-# React + Vite
+# CartWish
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A robust and scalable e-commerce application built with React, offering seamless shopping experiences, user authentication, and product management.
 
-Currently, two official plugins are available:
+## Features
+- User authentication with JWT integration
+- Protected APIs for secure operations
+- Browse products with search functionality
+- Add products to cart and manage orders
+- Pagination and infinite scrolling for smooth browsing
+- Optimized with React Query for efficient data fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/cartwish.git`
+2. Navigate to the project directory: `cd cartwish`
+3. Install dependencies: `npm install`
+4. Run the project: `npm start`
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+![GitHub stars](https://img.shields.io/github/stars/Usamazafar97/CartWish)
+![GitHub license](https://img.shields.io/github/license/Usamazafar97/CartWish)
+
+## Contact
+Created by Usama Zafar - feel free to contact me!
